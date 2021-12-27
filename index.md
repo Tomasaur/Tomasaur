@@ -11,8 +11,8 @@ To date AHK has been used to create over 150 software programs. GitHub has been 
 
 Software developed includes:
 
-1 Editing Software
-2 Graphical programs
+1 Editing Software  ---
+2 Graphical programs  ---
 3 Text driven programs
 
            ```````````````````````````````````````````````````````````````
@@ -20,6 +20,9 @@ Software developed includes:
 Sample:
 
 sleep 1000 ;
+
 MsgBox, Hello ;
+
 sleep 5000 ;
+
 ExitApp ;
